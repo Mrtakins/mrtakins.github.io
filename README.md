@@ -27,6 +27,6 @@
     <p>SQL, Python, Power BI, Excel...</p>
 
     <h2>Contact</h2>
-    <p>Email: you@example.com</p>
+    <p>Email: takins.v@gmail.com</p>
 </body>
 </html>
