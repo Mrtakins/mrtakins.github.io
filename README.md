@@ -1,5 +1,5 @@
 # mrtakins.github.io
-<!DOCTYPE html>
+#<!DOCTYPE html>
 <html>
 <head>
     <title>My Data Analyst Portfolio</title>
@@ -19,6 +19,7 @@
     <h2>Projects</h2>
     <ul>
         <li><b>Sales Dashboard in Power BI:</b> <a href="#">View</a></li>
+        <li><b>Student Performance Breakdown in Power BI:</b> <a href="#">View</a></li>
         <li><b>Python Data Cleaning:</b> <a href="#">View</a></li>
         <li><b>SQL Customer Segmentation:</b> <a href="#">View</a></li>
     </ul>
