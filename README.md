@@ -19,7 +19,10 @@
     <h2>Projects</h2>
     <ul>
         <li><b>Sales Dashboard in Power BI:</b> <a href="#">View</a></li>
-        <li><b>Student Performance Breakdown in Power BI:</b> <a href="#">View</a></li>
+        <li><b>Student Performance Breakdown in Power BI:</b> <a href="https://app.powerbi.com/groups/me/reports/06f141f8-a492-4c79-9ecc-10ce1fc62763?pbi_source=desktop" target ="_blank">
+        View Dashboard
+        </a>
+        </div>
         <li><b>Python Data Cleaning:</b> <a href="#">View</a></li>
         <li><b>SQL Customer Segmentation:</b> <a href="#">View</a></li>
     </ul>
