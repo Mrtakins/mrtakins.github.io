@@ -10,7 +10,7 @@
     </style>
 </head>
 <body>
-    <h1>Your Name - Data Analyst</h1>
+    <h1>Akintomide Victor Toluwalase - Data Analyst</h1>
     <p>SQL • Python • Power BI • Excel • Tableau</p>
 
     <h2>About Me</h2>
